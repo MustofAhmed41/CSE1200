@@ -6,11 +6,6 @@ int a, b;
 void iDraw()
 {	
 	iClear();
-	iClear();
-	iClear();
-
-	iShowImage(hero.x,100,100,100, a);
-	iShowImage(boss.x, 100, 100, 100, b);
 	iShowImage(hero.x,100,100,100, a);
 	iShowImage(boss.x, 100, 100, 100, b);
 
