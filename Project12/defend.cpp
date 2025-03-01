@@ -8,15 +8,7 @@ void iDraw()
 	iClear();
 	iShowImage(hero.x,100,100,100, a);
 	iShowImage(boss.x, 100, 100, 100, b);
-	iClear();
-	iShowImage(hero.x,100,100,100, a);
-	iShowImage(boss.x, 100, 100, 100, b);
-	iClear();
-	iShowImage(hero.x,100,100,100, a);
-	iShowImage(boss.x, 100, 100, 100, b);
-	iClear();
-	iShowImage(hero.x,100,100,100, a);
-	iShowImage(boss.x, 100, 100, 100, b);
+
 }
 
 
