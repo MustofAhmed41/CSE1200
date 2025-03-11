@@ -1,60 +1,87 @@
 # The Fallen Kingdom
 
-![image](https://github.com/user-attachments/assets/4b7b30fc-e9c6-42b5-a072-a5f019657499)
 
-Objective: A project to be developed by a team of 3 or 2 students.
+**The Fallen Kingdom** This is a simple graphics project created using the **iGraphics** library in C. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input, and simple animations.
 
-Abstract: Students had to develop an advance software or game using different functions of iGraphics.
-The software required the implementation of structures, file management and the functions 
-must be divided into several header files according to their appropriate use. Also the source code had 
-to be clean and must contain sufficient amount of documentation to describe the use of the 
-functions so that it may help future developers.
+
+## Features
+- Two playable characters with different attack styles.
+- Basic animations for punching, kicking, and blocking.
+- Health bars for both players.
+- Keyboard controls for attacking and movement.
+- Simple AI for single-player mode (or two-player mode available).
+
 
 -----------------------------------------------------------------
 IDE: Visual studio 2010/2013
-
 Language: C,C++.
-
 Platform : Windows PC.
+Genre : 2D action adventure
+
+## How to Run the Project
+
+Make sure you have the following installed:
+- **Visual Studio 2013**
+- **MinGW Compiler** (if needed)
+- **iGraphics Library** (included in this repository)
+
+
+Open the project in Visual Studio 2013
+- Open Visual Studio 2013.
+- Go to File → Open → Project/Solution.
+- Locate and select the .sln file from the cloned repository.
+- Click Build → Build Solution
+- Run the program by clicking Debug → Start Without Debugging
+
+
+## How to Play
+
+### **Controls**
+| Player       | Move Left | Move Right | Jump       | Punch | Kick | Block |
+|-------------|----------|-----------|-----------|-------|------|-------|
+| **Player 1** | `A`      | `D`       | `W`       | `F`   | `G`  | `H`   |
+| **Player 2** | `←` (Left Arrow) | `→` (Right Arrow) | `↑` (Up Arrow) | `K`   | `L`  | `;`   |
+
+
+### **Game Rules**
+
+- Each player starts with 100 health points.
+- Attacks reduce the opponent’s health based on the attack type:
+- Punch: -10 HP
+- Kick: -15 HP
+- Blocking can reduce damage by 50%.
+- The first player to reduce the opponent’s health to 0 wins the round.
+
+
+
 
 Game Description
 
 Name : The Fallen Kingdom
 
-Genre : 2D action adventure
 
 Game Description : After years of peace in the kingdom of Asgard, all hell broke loose when the king of darkness, Thanatos, rose from the pits of hell to conquer the world, and from the ashes of the dead knights, a brave warrior rose high to save his kingdom.
-
-Game Mechanics: 
-- Players build bridges to cross gaps
-- Fights enemy creeps to progress and fight level bosses
-- Killing creeps grants the player with points .
-- Killing bosses will grant players special powers.
-- Players can select two heroes
-- Each hero has distinct powers and attacks
-- Enemies can shoot projectiles and use close combat attacks
--------------------------------------------------------------------
 
 
 Project Contributors
 ----------------------------------
-1. Ali Ahnaf
-2. Mustofa Ahmed
-3. Samia Sabrina
+1. Ahnaf
+2. Snigdha
+3. Minha
+4. Akib
 --------------------------------------
 
-Course name: CSE 1200
---------------------------------
-Instructors:
 
-Mir Imtiaz Mostafiz  |   Md. Aminur Rahman  
+Screenshots
+----------------------------------
+1. Ahnaf
+2. Snigdha
+3. Minha
+4. Akib
+--------------------------------------
 
---------------------------------
-
-Game Design Document: https://docs.google.com/document/d/1unNdiuPwa_7H1Pmwv5XqRu3R4mdo39UgXWpbC-NH6OU/edit
-
-Features and Bug description:  https://docs.google.com/spreadsheets/d/1-pUSNcuPt5SzzRq-Ghp9gqVip7XTZgZQlqx2o60dyAQ/edit#gid=0
-
-
-
+Youtube Link
+----------------------------------
+[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
+--------------------------------------
 
