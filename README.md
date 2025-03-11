@@ -59,7 +59,7 @@ Project Contributors
 ----------------------------------
 1. Ahnaf
 2. Snigdha
-3. Minha
+3. Minhal
 4. Akib
 --------------------------------------
 
