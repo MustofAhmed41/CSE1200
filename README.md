@@ -64,18 +64,14 @@ Open the project in Visual Studio 2013
 
 
 ## Screenshots
-----------------------------------
-![Menu](https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd)
-![Robot](https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773)
 
---------------------------------------
+
+<img src="https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd" width="500">
+<img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="500">
 
 ## Youtube Link
-----------------------------------
 [CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
---------------------------------------
 
 ## Project Report
-----------------------------------
 [Project Report: The Fallen Kingdom](https://drive.google.com/drive/u/1/my-drive)
---------------------------------------
+
