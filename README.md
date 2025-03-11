@@ -1,8 +1,8 @@
 # The Fallen Kingdom
+---------------------------------------------------------------------------
+## Game Description
 
-
-**The Fallen Kingdom** This is a simple graphics project created using the **iGraphics** library in C. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input, and simple animations.
-
+**The Fallen Kingdom** is a simple graphics project created using the **iGraphics** library in C. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input, and simple animations.
 
 ## Features
 - Two playable characters with different attack styles.
@@ -13,10 +13,12 @@
 
 
 -----------------------------------------------------------------
+## Project Details
 IDE: Visual studio 2010/2013
 Language: C,C++.
 Platform : Windows PC.
 Genre : 2D action adventure
+
 
 ## How to Run the Project
 
@@ -53,16 +55,6 @@ Open the project in Visual Studio 2013
 - The first player to reduce the opponent’s health to 0 wins the round.
 
 
-
-
-Game Description
-
-Name : The Fallen Kingdom
-
-
-Game Description : After years of peace in the kingdom of Asgard, all hell broke loose when the king of darkness, Thanatos, rose from the pits of hell to conquer the world, and from the ashes of the dead knights, a brave warrior rose high to save his kingdom.
-
-
 Project Contributors
 ----------------------------------
 1. Ahnaf
@@ -71,13 +63,12 @@ Project Contributors
 4. Akib
 --------------------------------------
 
-
 Screenshots
 ----------------------------------
-1. Ahnaf
-2. Snigdha
-3. Minha
-4. Akib
+1. ![](https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd)
+2. 
+3. 
+4. 
 --------------------------------------
 
 Youtube Link
@@ -85,3 +76,7 @@ Youtube Link
 [CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
 --------------------------------------
 
+Project Report
+----------------------------------
+[Project Report: The Fallen Kingdom](https://drive.google.com/drive/u/1/my-drive)
+--------------------------------------
