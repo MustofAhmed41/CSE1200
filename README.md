@@ -1,5 +1,5 @@
 # The Fallen Kingdom
----------------------------------------------------------------------------
+
 ## Game Description
 
 **The Fallen Kingdom** is a simple graphics project created using the **iGraphics** library in C. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input, and simple animations.
