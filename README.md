@@ -65,10 +65,9 @@ Project Contributors
 
 Screenshots
 ----------------------------------
-1. ![](https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd)
-2. 
-3. 
-4. 
+![Menu](https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd)
+![Robot](https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773)
+
 --------------------------------------
 
 Youtube Link
